@@ -10,3 +10,9 @@
 /15_rusty_bargain/datasets
 /15_rusty_bargain/catboost_info
 /16_sweet_lift_taxi/datasets
+/17_film_junky_union/datasets
+/17_film_junky_union/corpus_lemanticized.joblib
+/17_film_junky_union/features_9.npz
+/17_film_junky_union/my_reviews_features_9.npz
+nlp_environment.yml
+nlp_ml_env.yml
